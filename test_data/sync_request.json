@@ -1,0 +1,13 @@
+{
+    "deviceId": "uniqueDeviceID",
+    "installedModules": [
+      {
+        "id": "ads",
+        "version": 8
+      },
+      {
+        "id": "proxy",
+        "version": 3
+      }
+    ]
+}
